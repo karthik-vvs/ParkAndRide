@@ -97,7 +97,7 @@ const App = () => {
                   onClick={() => setShowLogin(false)}
                   style={{ background: 'none', border: 'none', color: '#007bff', cursor: 'pointer' }}
                 >
-                  Register here
+                  Register Here
                 </button>
               </p>
             </>
@@ -110,7 +110,7 @@ const App = () => {
                   onClick={() => setShowLogin(true)}
                   style={{ background: 'none', border: 'none', color: '#007bff', cursor: 'pointer' }}
                 >
-                  Login here
+                  Login Here
                 </button>
               </p>
             </>
